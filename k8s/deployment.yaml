@@ -16,5 +16,5 @@ spec:
       - name: trend-app
         image: rishi9886/trend-app:latest
         ports:
-        - containerPort: 3000
+        - containerPort: 80
 
