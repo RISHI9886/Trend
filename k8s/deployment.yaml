@@ -17,4 +17,3 @@ spec:
         image: rishi9886/trend-app:latest
         ports:
         - containerPort: 80
-
