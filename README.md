@@ -49,6 +49,7 @@ Step-by-Step Instructions
 Clone the repository:
 
 git clone https://github.com/Vennilavan12/Trend.git
+
 cd Trend
 
 
@@ -57,7 +58,9 @@ Add .gitignore for unnecessary files (node_modules, build folders) and .dockerig
 Commit and push:
 
 git add .
+
 git commit -m "Initial commit with Docker & Kubernetes setup"
+
 git push origin main
 
 2. Dockerization
