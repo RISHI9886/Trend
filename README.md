@@ -176,9 +176,13 @@ App port: 3000
 
 DockerHub repository: rishi9886/trend-app
 
-LoadBalancer URL: Available after kubectl get svc on EKS.
+LoadBalancer URL: http://a3aedef3cec0a438186c3009b4811804-228352730.us-east-2.elb.amazonaws.com
 
 CI/CD ensures fully automated deployment.
+
+Jenkins pipeline
+
+<img width="2560" height="1432" alt="42" src="https://github.com/user-attachments/assets/c13fc0ab-3518-4d78-b935-b3efa12a7c7b" />
 
 
 GRAFANA DASHBOARD
